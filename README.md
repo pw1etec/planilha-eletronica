@@ -1,7 +1,3 @@
-Perfeito — vou montar um material **mais explicativo, didático e pronto para aula**, incluindo uma **planilha modelo (tabela completa)** que você pode usar diretamente com seus alunos.
-
----
-
 # 📊 Funções Básicas do Excel (SOMA, MÉDIA, MÁXIMO, MÍNIMO e SE)
 
 Este material tem como objetivo ensinar, de forma clara e prática, as principais funções do Excel utilizadas no ambiente profissional.
