@@ -122,6 +122,21 @@ Copie a tabela abaixo para o Excel:
 ## 🚀 Entrega Esperada
 
 Um arquivo Excel organizado, limpo, automatizado e com aparência profissional, pronto para apresentação executiva.
+📌 Observação Importante
+
+Os dados apresentados correspondem a um único trimestre (Janeiro, Fevereiro e Março).
+
+Durante o desenvolvimento da atividade, é esperado que você:
+
+Estruture sua planilha pensando em escalabilidade
+Deixe preparado o modelo para inclusão de novos períodos
+Organize os cálculos de forma que possam ser facilmente replicados
+💡 Expansões esperadas:
+Próximos trimestres (Abr–Jun, Jul–Set, Out–Dez)
+Consolidação semestral
+Consolidação anual
+
+👉 O objetivo é simular uma situação real de mercado, onde os dados evoluem continuamente e a estrutura da planilha precisa acompanhar esse crescimento.
 
 ---
 
