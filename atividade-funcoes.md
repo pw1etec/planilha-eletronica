@@ -1,7 +1,3 @@
-Aqui está um exercício completo em **Markdown**, com um enunciado profissional e uma base de dados com ~50 registros. Sem dicas, sem fórmulas e sem respostas — ideal para forçar o raciocínio dos alunos.
-
----
-
 # 📊 Desafio Prático de Excel — Análise de Desempenho Comercial
 
 ## 🧩 Contexto
