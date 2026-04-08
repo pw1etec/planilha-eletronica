@@ -139,9 +139,3 @@ Consolidação anual
 👉 O objetivo é simular uma situação real de mercado, onde os dados evoluem continuamente e a estrutura da planilha precisa acompanhar esse crescimento.
 
 ---
-
-Se quiser, posso depois montar:
-
-* ✔ Gabarito completo
-* ✔ Versão com nível avançado (incluindo gráficos)
-* ✔ Critérios de correção estilo prova/avaliação
